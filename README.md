@@ -23,6 +23,8 @@
 
 </div>
 
+> 🇬🇧 **English:** INSPECT DB Auto Backup – Windows Edition – automatic MySQL/MariaDB database backups for Windows by SecuroX Inspect. Purchase and licensing exclusively at [shop.inspect.wtf](https://shop.inspect.wtf). Product details below are in German – questions are welcome on [Discord](https://discord.gg/inspect).
+
 <br>
 
 ## Das Wichtigste auf einen Blick
